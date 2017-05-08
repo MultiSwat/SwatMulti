@@ -12,13 +12,13 @@ p {
 img {
     display: block;
     margin: auto;
-    width: 30%;
+    width: 80%;
     white-space: pre;
     border-radius: 15px;
 }
 
 body {
-	background-color: maroon;
+	background-color: gold;
 }
 
 h2 {
